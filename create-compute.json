@@ -1,0 +1,10 @@
+{
+  "data_security_mode": "DATA_SECURITY_MODE_AUTO",
+  "cluster_name": "Nagiligari Ajaykumar's Personal Compute Cluster 2026-11-15 19:53:58",
+  "policy_id": "001F41934C67186E",
+  "kind": "CLASSIC_PREVIEW",
+  "spark_version": "17.3.x-scala2.13",
+  "node_type_id": "Standard_D4ds_v4",
+  "autotermination_minutes": 20,
+  "is_single_node": true
+}
